@@ -1,6 +1,6 @@
 {
-    "name": "fields_media_global/fields_media_global",
-    "description": "A collection of globally shared fields for content types (node). These field types can be reused in modules and when managing content through the Drupal administration interface.",
+    "name": "fields_media_shared/fields_media_shared",
+    "description": "A collection of shareable fields for media content bundles. These field types can be reused in modules and when managing content through the Drupal administration interface.",
     "type": "drupal-module",
     "license": "GPL-2.0-or-later",
     "require": {
